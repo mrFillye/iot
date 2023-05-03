@@ -1,7 +1,6 @@
 {
   "name": "iot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -20,5 +19,15 @@
     "nodemon": "^2.0.22",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrFillye/iot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrFillye/iot/issues"
+  },
+  "homepage": "https://github.com/mrFillye/iot#readme",
+  "description": ""
 }
